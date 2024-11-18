@@ -1,0 +1,61 @@
+{
+    "company": {
+      "name": "Aamcha Auto",
+      "tagline": "Book an Auto - Easy, Fast, and Reliable",
+      "description": "Aamcha Auto offers reliable, affordable, and eco-friendly auto-rickshaw rides. Book an auto anytime, anywhere within minutes!"
+    },
+    "services": [
+      {
+        "service_name": "Instant Auto Booking",
+        "description": "Book a ride instantly from your location. No waiting, no hassle."
+      },
+      {
+        "service_name": "Pre-Scheduled Rides",
+        "description": "Schedule a ride in advance for future trips. Perfect for airport pickups and office commutes."
+      },
+      {
+        "service_name": "Corporate Rides",
+        "description": "Tailored transportation services for businesses. Easy monthly billing and tracking."
+      },
+      {
+        "service_name": "Eco-Friendly Rides",
+        "description": "Choose our electric and hybrid auto-rickshaws to reduce your carbon footprint."
+      }
+    ],
+    "ride_types": [
+      {
+        "type": "Standard Auto",
+        "capacity": "3 passengers",
+        "fare_per_km": "₹10"
+      },
+      {
+        "type": "Premium Auto",
+        "capacity": "4 passengers",
+        "fare_per_km": "₹15"
+      },
+      {
+        "type": "Electric Auto",
+        "capacity": "3 passengers",
+        "fare_per_km": "₹12"
+      }
+    ],
+    "drivers": [
+      {
+        "name": "Ramesh Sharma",
+        "rating": 4.8,
+        "experience": "5 years"
+      },
+      {
+        "name": "Suresh Gupta",
+        "rating": 4.9,
+        "experience": "6 years"
+      },
+      {
+        "name": "Priya Desai",
+        "rating": 4.7,
+        "experience": "4 years"
+      }
+    ],
+    "vision": "We aim to become the leading provider of eco-friendly and affordable transportation solutions across India. Our vision is to create a seamless transportation network that connects people and places while promoting sustainability and reducing environmental impact."
+  }
+  

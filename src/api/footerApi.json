@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find Us",
+        "details": "Ranchi, Jharkhand"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call Us",
+        "details": "+91 987654211"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail Us",
+        "details": "contact@aamchaauto.com"
+    }
+]
